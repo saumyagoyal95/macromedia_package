@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
  
 setuptools.setup(
    name = "macromedia_package",
-   version = "0.2",
+   version = "1.0",
    author = "Macromedia Prof",
    author_email = "author@example.com",
    description = "A small example package - for how to upload on Github",
